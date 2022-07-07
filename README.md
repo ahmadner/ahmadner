@@ -8,7 +8,7 @@ E: 404
 
 * 🌍  I'm based in earth planet
 * ✉️  You can contact me at [ahmadmnueirat@gmail.com](mailto:ahmadmnueirat@gmail.com)
-* 🧠  I'm learning java
+* 🧠  I'm learning BackEnd
 * ⚡  helloWorld
 
 ### Skills
