@@ -2,11 +2,9 @@ Hi 👋 My name is Ahmad
 ======================
 <h6>
 Downloading<br>
-21%[====>...........]
+21%[====>..........................]
 </h6>
 --------------
-
-E: 404
 
 * 🌍  I'm based in earth planet
 * ✉️  You can contact me at [ahmadmnueirat@gmail.com](mailto:ahmadmnueirat@gmail.com)
