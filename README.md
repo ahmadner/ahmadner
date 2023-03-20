@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently **develop my skills**
 
-- 👨‍💻 All of my projects are available at [www.guhub.com/ahmadner](www.guhub.com/ahmadner)
+- 👨‍💻 All of my projects are available at [www.github.com/ahmadner](www.github.com/ahmadner)
 
 - 💬 Ask me about **php, react, nodeJS**
 
