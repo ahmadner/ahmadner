@@ -8,7 +8,7 @@
 - 💬 Ask me about **php, react, nodeJS**
 
 - 📫 How to reach me **ahmadmnueirat@gmail.com**
-- age:  22%[---->...............]
+- age:  22 Y
 
 <h6>
 
