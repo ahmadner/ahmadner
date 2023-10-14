@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/ahmadner](www.github.com/ahmadner)
 
-- 💬 Ask me about **php, react, nodeJS**
+- 💬 Ask me about **php, laravel, bootstap**
 
 - 📫 How to reach me **ahmadmnueirat@gmail.com**
 - age:  22 Y
