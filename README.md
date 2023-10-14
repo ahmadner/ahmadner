@@ -10,9 +10,6 @@
 - 📫 How to reach me **ahmadmnueirat@gmail.com**
 - age:  22 Y
 
-<h6>
-
-</h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
