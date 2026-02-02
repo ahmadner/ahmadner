@@ -6,34 +6,44 @@
   </a>
 </p>
 
+<h3 align="center">Building scalable backend systems & robust web applications</h3>
+
 <p align="center">
-  <b>Building robust web applications with Laravel, Livewire, and Modern Tech.</b>
+ I am a <b>Full Stack Developer</b> based in <b>Ramallah</b> with expertise in building secure and efficient web solutions. My core focus is on <b>Laravel</b>, <b>Grails</b>, and <b>Linux Server Administration</b>. I combine software development with a strong background in networking (CCNA) to create high-performance applications.
 </p>
 
 <p align="center">
-I am a Full Stack Web Developer with a strong background in backend systems, specializing in <b>Laravel 10</b> and <b>Grails</b>. I combine deep knowledge of <b>Linux systems</b> and <b>Networking (CCNA)</b> to build secure, scalable solutions.
-</p>
-
-<p align="center">
-  <a href="#connect-with-me">Connect</a> •
-  <a href="#languages--tools">Tech Stack</a> •
-  <a href="#github-stats">Stats</a>
+  <a href="#work-experience">Experience</a> •
+  <a href="#projects">Projects</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#contact">Contact</a>
 </p>
 
 ---
 
-### 🚀 About Me
+### <a id="work-experience"></a>💼 Work Experience
 
-- 🔭 Currently working as a **Full Stack Developer** at **UBS**.
-- 🛠️ Specializing in **Laravel, Livewire, Tailwind, and React**.
-- 💼 Experienced in **Grails Framework** and **Groovy**.
-- 🐧 Proficient in **Linux Administration (Red Hat, Ubuntu)** and **Bash Scripting**.
-- 🛡️ Knowledgeable in **Web Security** and **Ethical Hacking**.
-- 📫 Contact: **ahmadmnueirat@gmail.com**
+- 🏢 **Full Stack Developer** at **UBS (Unique Beanies Solution)** *(Sep 2023 - Present)*
+  - Developing enterprise web solutions using PHP and modern frameworks.
+- 💻 **Freelance Full Stack Developer** at **Upwork** *(Sep 2023 - Present)*
+  - Delivering custom web applications for diverse global clients.
+- 📡 **Programming & Network Manager** *(2019 - 2021)*
+  - Managed network infrastructure and software implementation.
 
 ---
 
-### <a id="languages--tools"></a>🛠️ Languages & Tools
+### <a id="projects"></a>🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Skin Analysis AI System** | A backend API for a mobile app that analyzes facial images using **OpenAI GPT** to provide skin insights. Features social login & multilingual support. | `Laravel 10` `OpenAI API` `MySQL` `Passport` |
+| **U-Study Academy** | A comprehensive educational platform for students offering specialized courses and training programs. | `Laravel` `Bootstrap` `jQuery` `Ajax` |
+| **Telegram AI Bot** | An intelligent bot integrated with Telegram that delivers real-time conversational responses using AI. | `PHP` `Laravel` `Telegram API` `ChatGPT API` |
+| **Chalet Booking Platform** | A premium booking system for luxury chalets featuring a secure reservation engine and custom user services. | `Laravel` `MySQL` `Linux Server` |
+
+---
+
+### <a id="tech-stack"></a>🛠️ Languages & Tools
 
 **Backend & Frameworks**
 <p>
@@ -41,8 +51,8 @@ I am a Full Stack Web Developer with a strong background in backend systems, spe
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/livewire-%234E56A6.svg?style=for-the-badge&logo=livewire&logoColor=white" />
   <img src="https://img.shields.io/badge/Groovy-%234298B8.svg?style=for-the-badge&logo=apachegroovy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grails-%234298B8.svg?style=for-the-badge&logo=grails&logoColor=white" />
   <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 **Frontend**
@@ -54,56 +64,60 @@ I am a Full Stack Web Developer with a strong background in backend systems, spe
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
-**Database & DevOps**
+**DevOps, Database & Security**
 <p>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </p>
 
 ---
 
-### <a id="connect-with-me"></a>🤝 Connect with me
+### <a id="stats"></a>📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/ahmadner">
+    <img src="https://streak-stats.demolab.com?user=ahmadner&theme=react&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
+<br>
+<div align="center">
+  <a href="https://github.com/ahmadner">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmadner&show_icons=true&theme=react&hide_border=true&bg_color=20232a&icon_color=61dafb&text_color=ffffff&title_color=61dafb" height="180px" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/ahmadner">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadner&layout=compact&theme=react&hide_border=true&bg_color=20232a&icon_color=61dafb&text_color=ffffff&title_color=61dafb" height="180px" alt="Top Languages"/>
+  </a>
+</div>
+
+---
+
+### <a id="contact"></a>🤝 Connect with me
 
 <p align="left">
-<a href="https://twitter.com/ahmadner_" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="https://wa.me/972568397341" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-<a href="https://fb.com/ahmadner0" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://instagram.com/a7mad.ner" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+  <a href="https://wa.me/972568397341" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="mailto:ahmadmnueirat@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/ahmadner_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://fb.com/ahmadner0" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/a7mad.ner" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
----
-
-### <a id="github-stats"></a>📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/ahmadner">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadner&theme=react&hide_border=true" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ahmadner">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmadner&show_icons=true&theme=react&hide_border=true&bg_color=20232a&icon_color=61dafb&text_color=ffffff&title_color=61dafb&count_private=true" height="180px"/>
-  </a>
-  <a href="https://github.com/ahmadner">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadner&layout=compact&theme=react&hide_border=true&bg_color=20232a&icon_color=61dafb&text_color=ffffff&title_color=61dafb" height="180px"/>
-  </a>
-</div>
-
----
-
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ahmadner.png" alt="TryHackMe" />
+  <a href="https://tryhackme.com/p/ahmadner" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ahmadner.png" alt="TryHackMe Badge" />
+  </a>
 </p>
