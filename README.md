@@ -47,7 +47,7 @@
 | **Telegram AI Bot** | Secure bot that bridges Telegram users with ChatGPT, including moderation, billing, and audit logs. | `Laravel` `Telegram API` `ChatGPT API`
 | **Chalet Booking Platform** | High-conversion booking experience with real-time availability, payment orchestration, and admin KPIs. | `Laravel` `MySQL` `Linux`
 
-👉 المزيد من التفاصيل + لقطات العمل على موقعي: **[ahmadner.com](https://www.ahmadner.com)**
+My Portfolio 👉 **[ahmadner.com](https://www.ahmadner.com)**
 
 ---
 
